@@ -42,7 +42,7 @@ set_std_mode() {
   if [ "$VERBOSE" = "yes" ]; then
     STD=""
   else
-    STD="silent"
+    STD=""
   fi
 }
 
